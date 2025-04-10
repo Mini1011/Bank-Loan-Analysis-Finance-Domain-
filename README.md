@@ -1,6 +1,6 @@
 # Bank-Loan-Analysis-Finance-Domain-
 
- Overview
+ Overview:
 This project presents a comprehensive Bank Loan Analysis conducted in the Finance domain, using SQL for data manipulation and Power BI for visualization. The aim is to derive valuable business insights from 38,576 loan applications, helping stakeholders understand trends in loan performance, customer behavior, and financial health.
 
  Tools & Technologies
